@@ -1,2 +1,1 @@
-# Programm_19_05
-Erster Pfad
+// Dies ist der Konstruktionspfad.
